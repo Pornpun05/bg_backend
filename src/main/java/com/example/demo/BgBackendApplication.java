@@ -8,6 +8,8 @@ public class BgBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BgBackendApplication.class, args);
+		System.out.println("Hello spring");
+		System.out.println("Spring boot");
 	}
 
 }
